@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import Button from "./Button";
+/* eslint no-eval: 0 */
 
 const Home = () => {
   const [input, setInput] = useState("");
